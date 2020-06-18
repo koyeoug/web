@@ -1,0 +1,52 @@
+<!doctype html>
+  <html>
+    <head>
+        <title>html</title>
+      <meta charset="utf-8">
+    </head>
+
+    <body>
+      <h1>WEB</h1>
+      <ol>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JAVASCRIPT</li>
+        <li>PYTHON</li>
+      </ol>
+      <h2>HTML</h2>
+       <p>Hyper Text Markup Language (HTML) is the backbone of any website development process,<br>
+          without which a web page does not exist. Hypertext means that text has links,<br>
+          termed hyperlinks,embedded in it. When a user clicks on a word or a phrase that has a hyperlink,<br>
+          it will bring another web-page. A markup language indicates text can be turned into images, tables, links, and other representations.<br>
+          It is the HTML code that provides an overall framework of how the site will look.</p>
+          <p>HTML was developed by Tim Berners-Lee.
+          The latest version of HTML is called HTML5 and was published on October 28, 2014 by the W3 recommendation.
+          This version contains new and efficient ways of handling elements such as video and audio files.</p>
+      <h2>CSS</h2>
+       <p>Cascading Style Sheets , or Cascading Style Sheets ( Cascading Style Sheets , CSS) is a markup language,<br>
+         a language that describes how the actual display [1] , HTML and XHTML mainly used in, XML can be used in.<br>
+         It is a W3C standard and has a high degree of freedom in defining layout and style.<br>
+          If the markup language (ex. HTML) serves as the body of the website, CSS can be said to serve as a decoration for clothes and accessories.<br>
+          In other words, you can decorate it like any other website by changing the CSS file without changing the HTML structure.<br>
+          In the case of CSS3, which is currently under development , the ability to replace images produced by graphic editing programs such as shadow effects, gradients, and transformations has been added.<br>
+          Also, various animation functions have been added to replace Adobe Flash to some extent.</p>
+      <h2>JAVASCRIPT</h2>
+       <p>JavaScript ( English : -wide JavaScript ) is an object based on a script programming language is.<br>
+          This language is mainly used in web browsers and has the ability to access embedded objects of other applications.<br>
+          It is also used for server-side network programming, such as runtime environments like Node.js.<br>
+          JavaScript original Netscape Communications Corp. 's Brendan Eich in the name of the (Brendan Eich) first Mocha (Mocha),<br>
+          and later was developed under the name Live script   (LiveScript), was the final JavaScript.<br>
+          JavaScript Sun Microsystems 's Java and phrases viscosity similar to this,<br>
+          but this is due to the fact that the two languages dwotgi all based on the basic syntax of C language,<br>
+          Java and JavaScript are not directly relevant. Besides names and syntax, Java has more similarities to self or scheme .</p>
+      <h2>PYTHON<h2>
+       <p>Python [2] ( English : Python ) is 1991 [3] Programmers of Guido van Rossum (Guido Van of Rossum) [4] Advanced announced the programming language is independent of,<br>
+          the platform interpreter type, object-oriented small, dynamic typing ( dynamically typed) interactive language.<br>
+          The name Python comes from Guido's favorite comedy 〈Monty Python's Flying Circus〉.<br>
+          Python has an open, community-based development model managed by the non-profit Python Software Foundation . Cython implementation.</p>
+        <img src="coding.jpg" width="800">
+        <ol>
+          <li>제작자:koyeung</li>
+        </ol>
+    </body>
+  </html>
